@@ -8,8 +8,3 @@ Poder crear un sistema mediante alta baja y modificacion  de usuarios de tal man
 #URL  /api/users/ 
 #URL  /api/users/id
 ``
-
-
-ARQUITECTURA WEB
-
-PINEDA FERNANDO // FIGUEROA ESTEBAN // IGNACIO ZUGASTI
